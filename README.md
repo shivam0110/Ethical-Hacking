@@ -8,3 +8,8 @@ Codes for malware, viruses and key-logger and other tools
 3. Malware folder is the c code i have developed.
 
 4. To hide your malware from being detected by Anti-Virus softwares you can use hex editor and or add various useless functions to hide actuall code.
+
+5. Basic virus codes in cpp language, each virus code has comments which describes what it do. 
+
+NOTE: This project is created only for learning purpose.
+
