@@ -13,3 +13,5 @@ Codes for malware, viruses and key-logger and other tools
 
 NOTE: This project is created only for learning purpose.
 
+These work mainly for windows OS.
+
